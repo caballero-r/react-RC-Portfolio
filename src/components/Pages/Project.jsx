@@ -70,14 +70,14 @@ function Project () {
                 <Card style={{ width: '25rem' }}>
                     <Card.Img variant="top" src="password.png"/>
                     <Card.Body>
-                        <Card.Title>Password Generator</Card.Title>
+                        <Card.Title>Crash Code</Card.Title>
                         <Card.Text>
-                        Can't think of a password? Let this application do it for you!
+                        Embrace the crash, harness the code
                         </Card.Text>
-                        <a href='https://github.com/caballero-r/Unique-Password-Generator' >
+                        <a href='https://github.com/kimmh891223/crashcode' >
                             <FaGithub size={25}/>
                         </a>
-                        <a href='https://caballero-r.github.io/Unique-Password-Generator/' >
+                        <a href='https://crashcode-075d0f3975bd.herokuapp.com/' >
                             <GoRocket size={25} /> 
                         </a>
                     </Card.Body>
