@@ -68,7 +68,7 @@ function Project () {
             <Row className='project-row'>
             <Col>
                 <Card style={{ width: '25rem' }}>
-                    <Card.Img variant="top" src="password.png"/>
+                    <Card.Img variant="top" src="crashcode.png"/>
                     <Card.Body>
                         <Card.Title>Crash Code</Card.Title>
                         <Card.Text>
